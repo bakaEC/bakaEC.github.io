@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub
 
-You can goto [My Blog](https://bakaec.github.io/blog) to visit my blog website.
+### You can goto [One of my repos](https://github.com/GHS_research) to find what you like.
 
 
